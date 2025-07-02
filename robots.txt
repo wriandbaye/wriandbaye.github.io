@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://th.bestproductonlinestore.com/wriandbaye.txt
